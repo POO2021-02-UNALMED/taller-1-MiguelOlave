@@ -1,3 +1,5 @@
 Nombre: Miguel Fernando Olave Riascos
 Edad: 20 años
 Aspiraciones con la materia: Aspiro a aprender mucho con esta materia avanzando y mejorando en el mundo de la programación, no viendo la materia como una obligación sino como una oportunidad más de aprender y penetrar el maravilloso mundo del conocimiento de todo este campo, por último, estoy muy emocionado por todo el conocimiento impartido que vamos a adquirir
+Ahora si se pudo crear un commit y subir la carpeta ya que la carpeta ya no esta vacia, sabiendo que no podemos crear archivos como carpetas vacias ahora si podremos subir la carpeta pues ya no esta vacia.
+Es importante porque se pueden presentar problemas entre Github y Github Desktop ya que los dos tienen un mismo archivo con diferente información lo que puede ocasionar que a la largar se presenten errores.
